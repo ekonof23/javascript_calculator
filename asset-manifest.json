@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/javascript_calculator/static/css/main.3b6739bb.css",
+    "main.js": "/javascript_calculator/static/js/main.9d93f865.js",
+    "static/media/DigitalNumbers-Regular.ttf": "/javascript_calculator/static/media/DigitalNumbers-Regular.cc3aac3fb51de512bd28.ttf",
+    "index.html": "/javascript_calculator/index.html",
+    "main.3b6739bb.css.map": "/javascript_calculator/static/css/main.3b6739bb.css.map",
+    "main.9d93f865.js.map": "/javascript_calculator/static/js/main.9d93f865.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.3b6739bb.css",
+    "static/js/main.9d93f865.js"
+  ]
+}
